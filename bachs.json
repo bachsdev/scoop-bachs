@@ -1,12 +1,12 @@
 {
-    "version": "0.2.3",
+    "version": "0.2.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bachsdev/bachs-cli/releases/download/v0.2.3/bachs_0.2.3_windows_amd64.zip",
+            "url": "https://github.com/bachsdev/bachs-cli/releases/download/v0.2.5/bachs_0.2.5_windows_amd64.zip",
             "bin": [
                 "bachs.exe"
             ],
-            "hash": "5c4e397d3dbbc91d3221317f017fa8cde183e5222181721a1a99789367eff81a"
+            "hash": "8344bc73834c061670902b60d7bbca752b09c966590824d893d46830b5bc6ef1"
         }
     },
     "homepage": "https://bachs.io",
